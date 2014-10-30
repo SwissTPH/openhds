@@ -1,4 +1,14 @@
 openhds
 =======
 
-Meta repository for openhds components
+Meta repository for openhds components (openhds server, openhds mobile (including XForms for ODK), Mirth Channels, Su2). Below is the release history with references to a consistent set of openhds component releases.
+
+Current stable release: 1.2
+
+[openhds-server 1.2](https://github.com/SwissTPH/openhds-server/releases/download/openhds-1.2/openhds1.2.war)
+[openhds-tablet app 1.2](https://github.com/SwissTPH/openhds-tablet/releases/download/1.2/openhds-tablet1.2.apk)
+[openhds-tablet XForms 1.2](https://github.com/SwissTPH/openhds-tablet/releases/download/1.2/xlsforms.zip)
+[Mirth-Channels 1.2](https://github.com/SwissTPH/Mirth-Channels/archive/v1.2.zip)
+[openhds-su2 1.2](https://github.com/SwissTPH/openhds-su2/archive/v1.2.zip)
+
+
