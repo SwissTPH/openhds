@@ -5,6 +5,8 @@ Meta repository for openhds components (openhds server, openhds mobile (includin
 
 Current stable release: 1.2
 
+[Openhds Manual](https://github.com/SwissTPH/openhds/blob/master/doc/OpenHDS_Manual.pdf?raw=true)
+
 Download all the following componenents
 
 [openhds-server 1.2](https://github.com/SwissTPH/openhds-server/releases/download/openhds-1.2/openhds1.2.war)
