@@ -9,7 +9,7 @@ Current stable release: 1.2
 
 Download all the following componenents
 
-[openhds-server 1.2](https://github.com/SwissTPH/openhds-server/releases/download/openhds-1.2/openhds1.2.war)
+[openhds-server 1.2.1](https://github.com/SwissTPH/openhds-server/releases/download/openhds-1.2.1/openhds.war)
 
 [openhds-tablet app 1.2](https://github.com/SwissTPH/openhds-tablet/releases/download/1.2/openhds-tablet1.2.apk)
 
