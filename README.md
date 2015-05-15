@@ -17,6 +17,6 @@ Download all the following componenents
 
 [Mirth-Channels 1.3.2](https://github.com/SwissTPH/Mirth-Channels/releases/download/1.3.2/Mirth-Channels.zip)
 
-[openhds-su2 1.3](https://github.com/SwissTPH/openhds-su2/archive/v1.3.zip)
+[openhds-su2 1.3.2](https://github.com/SwissTPH/openhds-su2/archive/v1.3.2.zip)
 
 
