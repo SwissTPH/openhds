@@ -9,9 +9,9 @@ Current stable release: 1.3.3
 
 Download all the following componenents
 
-[openhds-server 1.3.3](https://github.com/SwissTPH/openhds-server/releases/download/openhds-1.3.3/openhds.war)
+[openhds-server 1.3.3](https://github.com/SwissTPH/openhds-server/releases/download/1.3.3release/openhds.war)
 
-[openhds-tablet app 1.3.3](https://github.com/SwissTPH/openhds-tablet/releases/download/1.3.2/openhds-tablet-1.3.3.apk)
+[openhds-tablet app 1.3.3](https://github.com/SwissTPH/openhds-tablet/releases/download/1.3.3release/openhds-tablet-1.3.3.apk)
 
 [openhds-tablet XForms 1.3.2](https://github.com/SwissTPH/openhds-tablet/releases/download/1.3.2/xlsforms.zip)
 
