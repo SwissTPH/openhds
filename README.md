@@ -13,7 +13,7 @@ Download all the following componenents
 
 [openhds-tablet app 1.3.3](https://github.com/SwissTPH/openhds-tablet/releases/download/1.3.3release/openhds-tablet-1.3.3.apk)
 
-[openhds-tablet XForms 1.3.3](https://github.com/SwissTPH/openhds-tablet/releases/download/1.3.3/xlsforms.zip)
+[openhds-tablet XForms 1.3.3](https://github.com/SwissTPH/openhds-tablet/releases/download/1.3.3release/xlsforms-1.3.3.zip)
 
 [Mirth-Channels 1.3.2](https://github.com/SwissTPH/Mirth-Channels/releases/download/1.3.2/Mirth-Channels.zip)
 
