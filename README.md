@@ -9,13 +9,13 @@ Current stable release: 1.4
 
 Download all the following componenents
 
-[openhds-server 1.3.3](https://github.com/SwissTPH/openhds-server/releases/download/1.3.3release/openhds.war)
+[openhds-server 1.4](https://github.com/SwissTPH/openhds-server/releases/download/openhds-1.4/openhds.war)
 
 [openhds-tablet app 1.4](https://github.com/SwissTPH/openhds-tablet/releases/download/1.4/openhdstablet_1_4.apk)
 
 [openhds-tablet XForms 1.4](https://github.com/SwissTPH/openhds-tablet/releases/download/1.4/xlsforms.zip)
 
-[Mirth-Channels 1.3.2](https://github.com/SwissTPH/Mirth-Channels/releases/download/1.3.2/Mirth-Channels.zip)
+[Mirth-Channels 1.4](https://github.com/SwissTPH/Mirth-Channels/releases/download/v1.4/Mirth-Channels.zip)
 
 [openhds-su2 1.3.2](https://github.com/SwissTPH/openhds-su2/archive/v1.3.2.zip)
 
