@@ -17,7 +17,7 @@ Download all the following componenents
 
 [Mirth-Channels 1.5](https://github.com/SwissTPH/Mirth-Channels/releases/download/v1.5/Mirth-Channels.zip)
 
-[openhds-su2 1.3.2](https://github.com/SwissTPH/openhds-su2/archive/v1.3.2.zip)
+[openhds-su2 1.5](https://github.com/SwissTPH/openhds-su2/archive/v1.5.zip)
 
 Alternatively, evaluate the platform using a virtualized environment, documentend in the [Openhds Manual](https://github.com/SwissTPH/openhds/blob/master/doc/OpenHDS_Manual.pdf?raw=true)
 
