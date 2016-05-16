@@ -21,6 +21,8 @@ Download all the following componenents
 
 Alternatively, evaluate the platform using a virtualized environment, documentend in the [Openhds Manual](https://github.com/SwissTPH/openhds/blob/master/doc/OpenHDS_Manual.pdf?raw=true)
 
-[openhds-eval Evaluation package] (https://github.com/SwissTPH/openhds-eval) 
+[openhds-eval Evaluation package] (https://github.com/SwissTPH/openhds-eval)
+
+If you are interested in migrating legacy data from another system, you may be interested in the [Data Migration Tutorial](https://github.com/SwissTPH/openhds-from-hrs2)
 
 
