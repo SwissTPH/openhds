@@ -11,7 +11,7 @@ Download all the following componenents
 
 [openhds-server 1.6](https://github.com/SwissTPH/openhds-server/releases/download/openhds-1.6/openhds.war)
 
-[openhds-tablet app 1.6](https://github.com/SwissTPH/openhds-tablet/releases/download/openhds-tablet_1.6/openhds-tablet_1_6.apk)
+[openhds-tablet app 1.6.1](https://github.com/SwissTPH/openhds-tablet/releases/download/1.6.1/openhds-tablet_1_6_1.apk)
 
 [openhds-tablet XForms 1.5](https://github.com/SwissTPH/openhds-tablet/releases/download/1.5/xlsforms.zip)
 
