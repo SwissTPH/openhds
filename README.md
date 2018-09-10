@@ -15,7 +15,7 @@ Download all the following componenents
 
 [openhds-tablet XForms 1.5](https://github.com/SwissTPH/openhds-tablet/releases/download/1.5/xlsforms.zip)
 
-[Mirth-Channels 1.5](https://github.com/SwissTPH/Mirth-Channels/releases/download/v1.5/Mirth-Channels.zip)
+[Mirth-Channels 1.6](https://github.com/SwissTPH/Mirth-Channels/releases/download/1%2C6/Mirth-Channels.zip)
 
 [openhds-su2 1.5](https://github.com/SwissTPH/openhds-su2/archive/v1.5.zip)
 
