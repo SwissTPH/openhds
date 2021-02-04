@@ -25,4 +25,6 @@ Alternatively, evaluate the platform using a virtualized environment, documenten
 
 If you are interested in migrating legacy data from another system, you may be interested in the [Data Migration Tutorial](https://github.com/SwissTPH/openhds-from-hrs2)
 
+OpenHDS is not anymore developed. In case of question or support please email to openhds@swisstph.ch
+
 
